@@ -1,0 +1,10 @@
+C:\Users\SpaceSoft_Dev\source\repos\Buddies\Buddies\bin\Debug\Buddies.exe.config
+C:\Users\SpaceSoft_Dev\source\repos\Buddies\Buddies\bin\Debug\Buddies.exe
+C:\Users\SpaceSoft_Dev\source\repos\Buddies\Buddies\bin\Debug\Buddies.pdb
+C:\Users\SpaceSoft_Dev\source\repos\Buddies\Buddies\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SpaceSoft_Dev\source\repos\Buddies\Buddies\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SpaceSoft_Dev\source\repos\Buddies\Buddies\obj\Debug\Buddies.csprojAssemblyReference.cache
+C:\Users\SpaceSoft_Dev\source\repos\Buddies\Buddies\obj\Debug\Buddies.csproj.CoreCompileInputs.cache
+C:\Users\SpaceSoft_Dev\source\repos\Buddies\Buddies\obj\Debug\Buddies.csproj.CopyComplete
+C:\Users\SpaceSoft_Dev\source\repos\Buddies\Buddies\obj\Debug\Buddies.exe
+C:\Users\SpaceSoft_Dev\source\repos\Buddies\Buddies\obj\Debug\Buddies.pdb
